@@ -1,0 +1,5 @@
+<context>
+    <input pattern="привет">
+        <output value="Приветствую вас, сэр"/>
+    </input>
+</context>
