@@ -1,0 +1,9 @@
+<context>
+    <input pattern="Привет">
+        <output> 
+            <item value="Приветствую вас, сэр"/>
+            <item value="Я к вашим услугам, сэр. Какие будут указания"/>
+            <item value="Истинное наслаждение видеть вас за работой, сэр"/>
+        </output>   
+    </input>
+</context>
